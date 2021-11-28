@@ -85,10 +85,7 @@ void setup()
 void loop(){
   resetBottle();
   lightControl();
-<<<<<<< Updated upstream
-=======
   checkTemperature();
->>>>>>> Stashed changes
   dispense();
 }
 
